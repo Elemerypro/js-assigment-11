@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #24353F;
+}
+
+.main{
+    background-color: #24353F;
+    box-shadow: 5px 0px 15px 10px #0000003d;
+}
+input{
+    background-color:#24353F !important;
+    color: #fff !important;
+}
+p{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
